@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434672898200",
+    "project_id": "auth-149e7",
+    "storage_bucket": "auth-149e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434672898200:android:8d7454057e16ea68ba40ed",
+        "android_client_info": {
+          "package_name": "com.mobilprg.yedekparca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGeRBMHHjYhmz9fg_KZ3AnMHvtqjhjyug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
